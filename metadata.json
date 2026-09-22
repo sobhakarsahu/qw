@@ -1,0 +1,8 @@
+{
+  "name": "LaxmiERP - Fees \u0026 Biometric Management System",
+  "description": "Comprehensive computer institute fees management system featuring biometric attendance integration, multi-role portals (Admin, Staff, Student \u0026 Parent), fee collection approval workflow, WhatsApp fee reminders, student CSV import, and income/expense tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
